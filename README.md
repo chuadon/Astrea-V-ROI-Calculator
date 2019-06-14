@@ -14,3 +14,7 @@ Instructions:
     7. Press Enter!
     
 Cells will update to reflect corresponding returns on investment for year on year up to 10 years.
+
+For those on telegram, check out the telegram bot version!
+
+https://t.me/astrea_v_calculator_bot
