@@ -17,4 +17,4 @@ Cells will update to reflect corresponding returns on investment for year on yea
 
 For those on telegram, check out the telegram bot version!
 
-https://t.me/astrea_v_calculator_bot
+https://t.me/astreav_calculator_bot
